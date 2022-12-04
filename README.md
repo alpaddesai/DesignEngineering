@@ -12,4 +12,3 @@ Additional details reference https://github.com/alpaddesai/TechnicalProjectManag
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
-
