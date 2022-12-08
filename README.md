@@ -9,7 +9,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 
 #### Popular vote: https://github.com/alpaddesai/VolunteerCommunityServicesinAmerica
 
-Additional details reference https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/TechnicalProjectManagement2022.
+Additional details reference https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/TechnicalProjectManagement.
 
 ![image](EthicsandExcellence.png)
 
