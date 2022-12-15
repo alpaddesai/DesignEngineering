@@ -9,7 +9,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 
 #### Popular vote: https://github.com/alpaddesai/DigitalLogicHDL
 
-Additional details reference https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/TechnicalProjectManagement.
+Additional details reference https://github.com/alpaddesai/GraduateDegrees 
 
 ![image](EthicsandExcellence.png)
 
