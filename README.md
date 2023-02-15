@@ -14,4 +14,3 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
-
