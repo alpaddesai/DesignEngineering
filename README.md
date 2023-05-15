@@ -10,8 +10,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 
 #### Paid Employment: https://github.com/alpaddesai/DataStructures
 #### Sample Revenue Generating Projects: https://github.com/alpaddesai/HardwareEngineeringLab4- 
-#### Popular Vote Project: 
-https://github.com/alpaddesai/GraduateRecordExamTestScores
+#### Popular Vote Project:https://github.com/alpaddesai/GraduateRecordExamTestScores
 
 ![image](EthicsandExcellence.png)
 
