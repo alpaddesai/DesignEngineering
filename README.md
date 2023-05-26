@@ -11,6 +11,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 #### Paid Employment: https://github.com/alpaddesai/DataStructures
 #### Sample Revenue Generating Projects: https://github.com/alpaddesai/HardwareEngineeringLab4- 
 #### Popular Vote Project:  https://github.com/alpaddesai/VolunteerCommunityServicesinAmerica
+#### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTest_ElectricalEngineering
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores 
 #### Admission Letter: https://github.com/alpaddesai/GraduateDesignEngineeringSchoolAdmissionLetter
 
