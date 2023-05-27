@@ -14,7 +14,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 #### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTest_ElectricalEngineering
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores 
 #### Admission Letter: https://github.com/alpaddesai/GraduateDesignEngineeringSchoolAdmissionLetter
-#### Cover Letters: https://github.com/alpaddesai/JobSearch and 
+#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/CoverLetters
 
 ![image](EthicsandExcellence.png)
 
