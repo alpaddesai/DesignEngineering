@@ -15,6 +15,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores 
 #### Admission Letter: https://github.com/alpaddesai/GraduateDesignEngineeringSchoolAdmissionLetter
 #### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/DesignEngineering_CoverLetters
+#### Learning with certifications https://github.com/alpaddesai/UdemyCertificationsMSEE
 
 ![image](EthicsandExcellence.png)
 
