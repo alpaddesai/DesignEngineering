@@ -12,7 +12,7 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 #### Sample Revenue Generating Projects: https://github.com/alpaddesai/HardwareEngineeringLab4- 
 #### Popular Vote Project:  https://github.com/alpaddesai/VolunteerCommunityServicesinAmerica
 #### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTest_Electronics_Communications 
-#### Popular Vote Topic Exam: Computer Architecture  https://github.com/alpaddesai/UdemyCertificationsComputerScience
+#### Popular Vote Topic: Computer Architecture Exam:  https://github.com/alpaddesai/UdemyCertificationsComputerScience
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores 
 #### Admission Letter: https://github.com/alpaddesai/GraduateDesignEngineeringSchoolAdmissionLetter
 #### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/DesignEngineering_CoverLetters
