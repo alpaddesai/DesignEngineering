@@ -8,7 +8,7 @@ Additional details reference https://github.com/alpaddesai/HardwareEngineeringLa
 ### MSEE
 Further details reference: https://github.com/alpaddesai/EngineeringMathematics,  https://github.com/alpaddesai/SemiConductorSolidStateDevices,   https://github.com/alpaddesai/FundamentalsComputerEngineering, https://github.com/alpaddesai/DataStructures, https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming, https://github.com/alpaddesai/VerilogHDL,  https://github.com/alpaddesai/WirelessandMobileSystems, https://github.com/alpaddesai/PowerElectronics, https://github.com/alpaddesai/AnalogDesign,   https://github.com/alpaddesai/ComputerArchitecture,    https://github.com/alpaddesai/ProbabilityStochasticProcesses, https://github.com/alpaddesai/FinanceForEngineers, https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/SmartGridDesignIdea.
 
-#### Paid Employment: https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/DataStructures.
+#### Paid Employment: https://github.com/alpaddesai/AnalogDesign 
 #### Sample Revenue Generating Projects: https://github.com/alpaddesai/HardwareEngineeringLab4- 
 #### Popular Vote Project:  https://github.com/alpaddesai/VolunteerCommunityServicesinAmerica
 #### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTest_Electronics_Communications
