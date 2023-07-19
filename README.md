@@ -19,5 +19,4 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 #### Learning with certifications https://github.com/alpaddesai/UdemyCertificationsMSEE
 
 ![image](EthicsandExcellence.png)
-
 ![image](USCopyrightCertificate.png)
